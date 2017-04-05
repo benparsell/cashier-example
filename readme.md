@@ -1,4 +1,4 @@
-#cashier-example
+##cashier-example
 
 Simple subscription model using cashier. Tread lightly.
 
